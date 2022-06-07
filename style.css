@@ -29,3 +29,26 @@ img {
 .food-h{
     text-align: center;
 }
+
+.page-change.left{
+    text-align: left;
+    display: block;
+}
+
+a.page-change.right{
+    text-align: right;
+    display: block;
+}
+
+.caption{
+    text-align: center;
+    font-size: 20px;
+}
+
+.table-heading{
+    text-decoration: underline;
+}
+
+ol {
+    list-style-position: inside;
+}
